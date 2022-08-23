@@ -4,12 +4,12 @@ class App extends React.Component {
   render() {
     return (
     	<div>
-    	  <h1>こんにちは、にんじゃわんこさん！</h1>
-    	  {/* <button>タグ「ひつじ仙人」を追加してください */}
-    	  <button>ひつじ仙人</button>
+    	  <h1>こんにちは、MasahiroAmemiさん！</h1>
+    	  {/* <button>タグ「Masahiro」を追加する */}
+    	  <button>Masahiro</button>
     	  
-    	  {/* <button>タグ「にんじゃわんこ」を追加してください */}
-    	  <button>にんじゃわんこ</button>
+    	  {/* <button>タグ「Amemi」を追加する */}
+    	  <button>Amemi</button>
     	  
     	</div>
     );
