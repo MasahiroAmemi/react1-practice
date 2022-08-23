@@ -1,7 +1,7 @@
-// Reactをインポートしてください
+// Reactをインポートする
 import React from "react";
 
-// Appクラスを定義してください
+// Appクラスを定義する
 class App extends React.Component {
   render() {
     return (
@@ -9,5 +9,5 @@ class App extends React.Component {
     );
   }
 }
-// Appクラスをエクスポートしてください
+// Appクラスをエクスポートする
 export default App;
