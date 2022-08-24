@@ -5,16 +5,16 @@ class App extends React.Component {
   constructor(props) {
     super(props);
     // stateを定義してください
-    this.state = {name:"にんじゃわんこ"};
+    this.state = {name:"MasahiroAmemi"};
     
   }
   
   render() {
     return (
     	<div>
-    	  <h1>こんにちは、にんじゃわんこさん！</h1>
-        <button onClick={() => {console.log('ひつじ仙人')}}>ひつじ仙人</button>
-        <button onClick={() => {console.log('にんじゃわんこ')}}>にんじゃわんこ</button>
+    	  <h1>こんにちは、MasahiroAmemiさん！</h1>
+        <button onClick={() => {console.log('Masahiro')}}>Masahiro</button>
+        <button onClick={() => {console.log('Amemi')}}>Amemi</button>
       </div>
     );
   }
