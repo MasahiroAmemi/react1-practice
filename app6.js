@@ -9,7 +9,7 @@ class App extends React.Component {
   render() {
     return (
     	<div>
-        {/* 「こんにちは、MasahiroAmemiさん！」の名前の部分をstateを使って置き換えてください */}
+        {/* 「こんにちは、MasahiroAmemiさん」の名前の部分をstateを使って置き換えてください */}
     	  <h1>こんにちは、{this.state.name}さん！</h1>
     	  
         <button onClick={() => {console.log('ひつじ仙人')}}>ひつじ仙人</button>
